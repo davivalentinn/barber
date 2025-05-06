@@ -34,5 +34,5 @@ O layout segue uma proposta moderna e elegante, com cores sóbrias e elementos v
 ---
 
 ## 🚀 Deploy
-   ```bash
+
    https://davivalentinn.github.io/barber/
