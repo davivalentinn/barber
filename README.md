@@ -33,8 +33,6 @@ O layout segue uma proposta moderna e elegante, com cores sóbrias e elementos v
 
 ---
 
-## 🚀 Como utilizar
-
-1. Clone o repositório:
+## 🚀 Deploy
    ```bash
-   git clone https://github.com/seu-usuario/barbearia.git
+   https://davivalentinn.github.io/barber/
